@@ -17,6 +17,12 @@
         <body>
             <list><item>
                     <persName>
+                        <forename>Steffen</forename>
+                        <surname>Pielström</surname>
+                    </persName>
+                    <note>Alles Gute!</note>
+                </item><item>
+                    <persName>
                         <roleName>Oberbürgermeister</roleName>
                         <roleName>Dr.</roleName>
                         <forename>Markus</forename>
