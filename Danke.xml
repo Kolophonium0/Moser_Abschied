@@ -17,10 +17,19 @@
         <body>
             <list><item>
                     <persName>
+                        <roleName>Oberbürgermeister</roleName>
+                        <roleName>Dr.</roleName>
+                        <forename>Markus</forename>
+                        <surname>Naser</surname>
+                    </persName>
+                    <note>Lieber Herr Dr. Moser, zu Ihrem wohlverdienten Ruhestand wünsche ich Ihnen
+                        alles erdenklich Gute!</note>
+                </item><item>
+                    <persName>
                         <forename>Fotis</forename>
                         <surname>Jannidis</surname>
                     </persName>
-                <email>fotis@jannidis.de</email>
+                    <email>fotis@jannidis.de</email>
                     <note> Schade, schade, schade, dass Du gehst! Aber Glück für die kommende Zeit
                         mit viel Ruhe und bester Gesundheit!!</note>
                 </item><item>
@@ -76,9 +85,10 @@
                     </persName>
                     <email>artem.stoianov@stud-mail.uni-wuerzburg.de</email>
                     <note> Vielen Dank für Ihre freundliche Unterstützung auf unserem Studienweg.
-                        Für Ihre Bereitschaft zu helfen, Ihr Verständnis und Ihre Geduld bei der Klärung
-                        der Fragen und schwieriger Themen. Ihre Liebe zur Geschichte und den Digital
-                        Humanities hat sehr viel Spaß gemacht! Ich wünsche alles Gute im weiteren und eine erholsame Zeit! </note>
+                        Für Ihre Bereitschaft zu helfen, Ihr Verständnis und Ihre Geduld bei der
+                        Klärung der Fragen und schwieriger Themen. Ihre Liebe zur Geschichte und den
+                        Digital Humanities hat sehr viel Spaß gemacht! Ich wünsche alles Gute im
+                        weiteren und eine erholsame Zeit! </note>
                 </item>
                 <item>
                     <persName>

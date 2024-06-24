@@ -70,6 +70,9 @@ surname{
 forename{
     -oxy-display-tags: none;
 }
+roleName{
+    -oxy-display-tags: none;
+}
 list {
   content: oxy_button(actionID, 'Insert_New_Entry', showText, true);
 }
