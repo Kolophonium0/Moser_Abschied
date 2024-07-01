@@ -116,3 +116,10 @@ purpose[degree="niedrig"]{
 constitution{
     display: block;
 }
+language::before{
+    content: "Sprache: ";
+    color: rgb(108 , 134 , 143); 
+}
+language{
+    color: rgb(108 , 134 , 143);
+}

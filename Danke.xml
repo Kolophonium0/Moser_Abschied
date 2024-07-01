@@ -18,8 +18,8 @@
                     <language ident="de">Deutsch</language>
                 </langUsage>
                 <textDesc>
-                    <purpose type="abschied" degree="hoch"/>
-                    <purpose type="unterhaltung" degree="niedrig"/>
+                    <purpose type="Abschied" degree="hoch"/>
+                    <purpose type="Unterhaltung" degree="niedrig"/>
                     <channel mode="w">Digitale Abschiedskarte</channel>
                     <constitution type="multiple">
                         Jedes item entstand als persönliche Abschiedsworte der Studentenschaft und des Lehrkörpers der Digital Humanities an der JMU zum Anlass des Ruhestandes von Herrn Dr. Stephan Moser.
@@ -33,6 +33,12 @@
     <text>
         <body>
             <list><item>
+                    <persName>
+                        <forename>Kiara</forename>
+                        <surname>Hart</surname>
+                    </persName>
+                    <note>Vielen Dank!</note>
+                </item><item>
                     <persName>
                         <forename>Madlin</forename>
                         <surname>Marenec</surname>
