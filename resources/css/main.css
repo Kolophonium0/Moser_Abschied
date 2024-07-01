@@ -11,13 +11,24 @@ publicationStmt,
 p,
 sourceDesc,
 body,
-text{
+text,
+profileDesc,
+textDesc{
     -oxy-display-tags: none;
     display: block;
     margin: 1em;
     text-align: center;
 }
-
+textDesc,
+derivation,
+purpose,
+langUsage,
+language,
+channel,
+domain,
+constitution{
+    -oxy-display-tags: none;
+}
 title{
     font-size: 1.6em;
     font-weight: 500;
@@ -75,4 +86,33 @@ roleName{
 }
 list {
   content: oxy_button(actionID, 'Insert_New_Entry', showText, true);
+}
+channel, derivation, purpose, domain, constitution{
+  border-radius: 10px;  
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color:  rgb(255 , 207 , 177) ;
+  color: rgb(108 , 134 , 143);
+  margin: 0.3em;
+}
+derivation{
+  content: attr(type);
+}
+purpose{
+  content: attr(type);
+}
+purpose[degree="hoch"]{
+    background-color: red;
+    color: white;
+}
+purpose[degree="mittel"]{
+    background-color: yellow;
+    color: white;
+}
+purpose[degree="niedrig"]{
+    background-color: green;
+    color: white;
+}
+constitution{
+    display: block;
 }
