@@ -15,7 +15,16 @@
     </teiHeader>
     <text>
         <body>
-            <list>
+            <list><item>
+                    <persName>
+                        <forename>Linnea</forename>
+                        <surname>Richter</surname>
+                    </persName>
+                    <note>Ohne Sie wäre ich nicht in diesem Studiengang! Vielen lieben Dank für Ihr
+                        Engagement und Verständnis, welches nicht selbstverständlich ist. Die
+                        Rotscheibengasse und andere Geschichte Würzburgs werde ich immer mit Ihrem
+                        Seminar verbinden. Danke und alles Gute im wohlverdienten Ruhestand!</note>
+                </item>
                 <item>
                     <persName>
                         <forename>Janina Marie</forename>
