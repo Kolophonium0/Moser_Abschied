@@ -15,7 +15,8 @@
     </teiHeader>
     <text>
         <body>
-            <list><item>
+            <list>
+                <item>
                     <persName>
                         <forename>Janina Marie</forename>
                         <surname>Roth</surname>
@@ -23,6 +24,8 @@
                     <note>Ich habe Ihre Hilfe bei meinem Fachwechsel sehr geschätzt! Vielen Dank für
                         Ihre Unterstützung auch in den vielen Seminaren, die ich bei Ihnen belegt
                         hatte. Ich wünsche Ihnen alles Gute!</note>
+                </item><item>
+                    <persName>
                         <forename>Jorit</forename>
                         <surname>Wintjes</surname>
                     </persName>
@@ -111,8 +114,7 @@
                         <surname>Ehrmanntraut</surname>
                     </persName>
                     <note>Vielen Dank</note>
-                </item>
-                <item>
+                </item><item>
                     <persName>
                         <forename>Jule</forename>
                         <surname>Beck</surname>
@@ -120,8 +122,7 @@
                     <note>Ich habe Sie als Dozent sehr geschätzt, viel von Ihnen gelernt und danke
                         Ihnen für Ihre Präsenz und die Mühen. Ich wünsche Ihnen das Beste für den
                         kommenden Ruhestand!</note>
-                </item>
-                <item>
+                </item><item>
                     <persName>
                         <forename>Johanna</forename>
                         <surname>Bock</surname>
@@ -133,8 +134,7 @@
                         ernst genommen werden. Ich hoffe wir können diesen Teil in Ihrem Sinne auch
                         in der Fachschaft ein bisschen weiter führen und genau das Gefühl den
                         kommenden Studierenden mitgeben. Alles Gute für Sie und vielen Dank! </note>
-                </item>
-                <item>
+                </item><item>
                     <persName>
                         <forename>Artem</forename>
                         <surname>Stoianov</surname>
@@ -145,8 +145,7 @@
                         Klärung der Fragen und schwieriger Themen. Ihre Liebe zur Geschichte und den
                         Digital Humanities hat sehr viel Spaß gemacht! Ich wünsche alles Gute im
                         weiteren und eine erholsame Zeit! </note>
-                </item>
-                <item>
+                </item><item>
                     <persName>
                         <forename>Yannik</forename>
                         <surname>Herbst</surname>
