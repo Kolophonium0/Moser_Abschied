@@ -13,6 +13,21 @@
             <sourceDesc>
                 <p>Digitales Erzeugnis, es existiert keine vorhergehende Quelle.</p>
             </sourceDesc>
+            <profileDesc>
+                <langUsage>
+                    <language ident="de">Deutsch</language>
+                </langUsage>
+                <textDes>
+                    <purpose type="abschied" degree="hoch"/>
+                    <purpose type="unterhaltung" degree="gering"/>
+                    <channel mode="w">Digitale Abschiedskarte</channel>
+                    <constitution type="multiple">
+                        Jedes item entstand als persönliche Abschiedswort der Studentenschaft und des Lehrkörpers der Digital Humanities an der JMU zum Anlass des Ruhestandes von Herrn Dr. Stephan Moser.
+                    </constitution>
+                    <domain type="privat">Private Danksagung</domain>
+                    <derivation type="original"/>
+                </textDes>
+            </profileDesc>
         </fileDesc>
     </teiHeader>
     <text>
