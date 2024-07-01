@@ -4,18 +4,26 @@
         <fileDesc>
             <titleStmt>
                 <title>Danksagung zu Herrn Dr. Stephan Mosers Pensionierung</title>
+                <author>Yannik Herbst</author>
+                <!-- TODO: Add each entry writer as author -->
             </titleStmt>
             <publicationStmt>
                 <p> Information about distribution of the resource </p>
             </publicationStmt>
             <sourceDesc>
-                <p>Born digital: no previous source exists.</p>
+                <p>Digitales Erzeugnis, es existiert keine vorhergehende Quelle.</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <body>
             <list><item>
+                    <persName>
+                        <forename>Madlin</forename>
+                        <surname>Marenec</surname>
+                    </persName>
+                    <note/>
+                </item><item>
                     <persName>
                         <forename>Silvia</forename>
                         <surname>Pasciullo</surname>
