@@ -200,5 +200,11 @@ textDesc{
     margin-top: 1em;
 }
 surname[type="geborene"]::before{
-    content: " geborene "    
+    content: " geborene ";  
+}
+author::after{
+    content: ", ";
+}
+author:last-of-type::after{
+    content: "";
 }
