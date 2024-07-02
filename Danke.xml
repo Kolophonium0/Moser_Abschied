@@ -34,6 +34,16 @@
         <body>
             <list><item>
                     <persName>
+                        <forename>Simon</forename>
+                        <surname>Donath</surname>
+                    </persName>
+                    <note>Danke an einen super Dozenten, auf den man sich immer verlassen konnte.
+                        Egal wie schwierig das Problem auch war, Sie standen uns mit Rat und Tat
+                        immer zur Seite. Ihren Ruhestand haben Sie sich wohl verdient. Nach Ihrem
+                        Abgang wird eine große Lücke an der Uni entstehen, die nicht so leicht zu
+                        füllen sein wird. Alles Gute!</note>
+                </item><item>
+                    <persName>
                         <forename>Kiara</forename>
                         <surname>Hart</surname>
                     </persName>
@@ -49,8 +59,8 @@
                         <forename>Tomash</forename>
                         <surname>Shtohryn</surname>
                     </persName>
-                    <note>Herzlichen Dank für Ihr Engagement und kompetente Unterstützung
-                        aller Würzburger DH-Studis! Alles Gute für den Ruhestand!</note>
+                    <note>Herzlichen Dank für Ihr Engagement und kompetente Unterstützung aller
+                        Würzburger DH-Studis! Alles Gute für den Ruhestand!</note>
                 </item><item>
                     <persName>
                         <forename>Silvia</forename>
