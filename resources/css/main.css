@@ -109,10 +109,7 @@ channel, derivation, purpose, domain, constitution, preparedness{
   color: rgb(108 , 134 , 143);
   margin: 0.3em;
 }
-derivation{
-  content: attr(type);
-}
-purpose{
+derivation::before{
   content: attr(type);
 }
 purpose[degree="hoch"]{
@@ -139,6 +136,7 @@ language{
 }
 titleStmt, textDesc, publicationStmt, langUsage{
     background-color: #eff3ed;
+    padding: 0.2em;
 }
 respStmt::before{
     content: '"Verantwortlich"';
@@ -184,11 +182,11 @@ author:first-of-type::before{
 publicationStmt{
     padding-top: 0.5em;
 }
-preparedness{
+preparedness::before{
     content: "Vorbereitung? " attr(type);
 }
 purpose::before{
-    content: "Zweck: ";
+    content: "Zweck: " attr(type);
 }
 purpose::after{
     content: " - " attr(degree);
@@ -196,4 +194,8 @@ purpose::after{
 list{
     display: flex;
     flex-direction: column;
+}
+textDesc{
+    margin: 0;
+    margin-top: 1em;
 }
