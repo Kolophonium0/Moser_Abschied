@@ -80,7 +80,16 @@
     </teiHeader>
     <text>
         <body>
-            <list>
+            <list><item>
+                    <person>
+                        <persName>
+                            <forename>Martin</forename>
+                            <surname>Rupnig</surname>
+                        </persName>
+                    </person>
+                    <note>Vielen Dank für Ihren Einsatz und die Unterstützung bei meinem Start ins
+                        DH-Studium. Alles Gute für die Zukunft.</note>
+                </item>
                 <item>
                     <person>
                         <persName>
