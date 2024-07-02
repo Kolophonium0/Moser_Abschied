@@ -193,3 +193,7 @@ purpose::before{
 purpose::after{
     content: " - " attr(degree);
 }
+list{
+    display: flex;
+    flex-direction: column;
+}
