@@ -172,7 +172,7 @@ license{
     padding: 0.5em;
 }
 author:first-of-type::before{
-    content: "Autoren: ";
+    content: "Autoren";
     display: block;
     font-size: 1.2em;
     text-align: center;

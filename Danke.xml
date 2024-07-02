@@ -33,21 +33,26 @@
                 <author>Agnes Hilger</author>
                 <respStmt>
                     <resp>Initiative</resp>
-                    <org type="FachschaftsInitiative"><orgName>fsi.dh</orgName></org>
-                    <resp><soCalled>Programmierung</soCalled></resp>
+                    <org type="FachschaftsInitiative">
+                        <orgName>fsi.dh</orgName>
+                    </org>
+                    <resp>
+                        <soCalled>Programmierung</soCalled>
+                    </resp>
                     <name>Yannik Herbst</name>
                     <resp>Inhalt</resp>
                     <p>Alle unter Autoren genannte Personen</p>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <publisher><orgName type="FachschaftsInitiative">fsi.dh</orgName></publisher>
+                <publisher>
+                    <orgName type="FachschaftsInitiative">fsi.dh</orgName>
+                </publisher>
                 <pubPlace>Würzburg</pubPlace>
                 <date when="2024">2024</date>
-                <license>The Don't Ask Me About It License (modified)
-                    Copying of this file, without or without modification, is
-                    permitted in any medium provided you do not contact the author 
-                    about the file or any problems you are having with the file
+                <license>The Don't Ask Me About It License (modified) Copying of this file, without
+                    or without modification, is permitted in any medium provided you do not contact
+                    the author about the file or any problems you are having with the file
                 </license>
             </publicationStmt>
             <sourceDesc>
@@ -74,7 +79,20 @@
     </teiHeader>
     <text>
         <body>
-            <list><item>
+            <list>
+                <item>
+                    <person>
+                        <persName>
+                            <forename>Sina</forename>
+                            <surname>Bock</surname>
+                        </persName>
+                    </person>
+                    <note>Besten Dank an alle die sich da an der Vorbereitung beteiligen! Ich
+                        wünsche euch ein schaurig schönes Sommerfest und eine spektakultäre
+                        Verabschiedung. Sehr schade, dass ich dieses Mal leider nicht dabei sein
+                        kann. Sina</note>
+                </item>
+                <item>
                     <person>
                         <persName>
                             <forename>Agnes</forename>
