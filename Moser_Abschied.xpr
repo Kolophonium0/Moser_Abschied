@@ -92,10 +92,12 @@
                                                                         <entry>
                                                                             <String>fragment</String>
                                                                             <String>&lt;item xmlns="http://www.tei-c.org/ns/1.0">
-  &lt;persName>
-    &lt;forename>${ask('Vorname:', String, '')}&lt;/forename>
-    &lt;surname>${ask('Nachname', String, '')}&lt;/surname>
-  &lt;/persName>
+  &lt;person>
+    &lt;persName>
+     &lt;forename>${ask('Vorname:', String, '')}&lt;/forename>
+     &lt;surname>${ask('Nachname', String, '')}&lt;/surname>
+    &lt;/persName>
+  &lt;/person> 
   &lt;note>${ask('Persönliche Nachricht eingeben:', String, '')}&lt;/note>
 &lt;/item></String>
                                                                         </entry>

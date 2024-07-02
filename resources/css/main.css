@@ -26,7 +26,8 @@ langUsage,
 language,
 channel,
 domain,
-constitution{
+constitution,
+person{
     -oxy-display-tags: none;
 }
 title{

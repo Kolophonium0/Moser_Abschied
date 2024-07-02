@@ -21,8 +21,10 @@
                     <purpose type="Abschied" degree="hoch"/>
                     <purpose type="Unterhaltung" degree="niedrig"/>
                     <channel mode="w">Digitale Abschiedskarte</channel>
-                    <constitution type="multiple">
-                        Jedes item entstand als persönliche Abschiedsworte der Studentenschaft und des Lehrkörpers der Digital Humanities an der JMU zum Anlass des Ruhestandes von Herrn Dr. Stephan Moser.
+                    <constitution type="multiple"> Jedes item entstand als persönliche
+                        Abschiedsworte der Studentenschaft und des Lehrkörpers der Digital
+                        Humanities an der JMU zum Anlass des Ruhestandes von Herrn Dr. Stephan
+                        Moser.
                     </constitution>
                     <domain type="privat">Private Danksagung</domain>
                     <derivation type="original"/>
@@ -32,171 +34,244 @@
     </teiHeader>
     <text>
         <body>
-            <list><item>
-                    <persName>
-                        <forename>Simon</forename>
-                        <surname>Donath</surname>
-                    </persName>
+            <list>
+                <item>
+                    <person>
+                        <persName>
+                            <forename>Pia</forename>
+                            <surname>Hofmann</surname>
+                        </persName>
+                    </person>
+                    <note>Danke für die frühen Einblicke in die DH! Viel Spaß und Freude im neuen
+                        Abschnitt!</note>
+                </item>
+                <item>
+                    <person>
+                        <persName>
+                            <forename>Simon</forename>
+                            <surname>Donath</surname>
+                        </persName>
+                    </person>
                     <note>Danke an einen super Dozenten, auf den man sich immer verlassen konnte.
                         Egal wie schwierig das Problem auch war, Sie standen uns mit Rat und Tat
                         immer zur Seite. Ihren Ruhestand haben Sie sich wohl verdient. Nach Ihrem
                         Abgang wird eine große Lücke an der Uni entstehen, die nicht so leicht zu
                         füllen sein wird. Alles Gute!</note>
-                </item><item>
-                    <persName>
-                        <forename>Kiara</forename>
-                        <surname>Hart</surname>
-                    </persName>
+                </item>
+                <item>
+                    <person>
+                        <persName>
+                            <forename>Kiara</forename>
+                            <surname>Hart</surname>
+                        </persName>
+                    </person>
                     <note>Vielen Dank!</note>
-                </item><item>
-                    <persName>
-                        <forename>Madlin</forename>
-                        <surname>Marenec</surname>
-                    </persName>
+                </item>
+                <item>
+                    <person>
+                        <persName>
+                            <forename>Madlin</forename>
+                            <surname>Marenec</surname>
+                        </persName>
+                    </person>
                     <note/>
-                </item><item>
-                    <persName>
-                        <forename>Tomash</forename>
-                        <surname>Shtohryn</surname>
-                    </persName>
+                </item>
+                <item>
+                    <person>
+                        <persName>
+                            <forename>Tomash</forename>
+                            <surname>Shtohryn</surname>
+                        </persName>
+                    </person>
                     <note>Herzlichen Dank für Ihr Engagement und kompetente Unterstützung aller
                         Würzburger DH-Studis! Alles Gute für den Ruhestand!</note>
-                </item><item>
-                    <persName>
-                        <forename>Silvia</forename>
-                        <surname>Pasciullo</surname>
-                    </persName>
+                </item>
+                <item>
+                    <person>
+                        <persName>
+                            <forename>Silvia</forename>
+                            <surname>Pasciullo</surname>
+                        </persName>
+                    </person>
                     <note>Vielen Dank</note>
-                </item><item>
-                    <persName>
-                        <forename>Linnea</forename>
-                        <surname>Richter</surname>
-                    </persName>
+                </item>
+                <item>
+                    <person>
+                        <persName>
+                            <forename>Linnea</forename>
+                            <surname>Richter</surname>
+                        </persName>
+                    </person>
                     <note>Ohne Sie wäre ich nicht in diesem Studiengang! Vielen lieben Dank für Ihr
                         Engagement und Verständnis, welches nicht selbstverständlich ist. Die
                         Rotscheibengasse und andere Geschichte Würzburgs werde ich immer mit Ihrem
                         Seminar verbinden. Danke und alles Gute im wohlverdienten Ruhestand!</note>
-                </item><item>
-                    <persName>
-                        <forename>Janina Marie</forename>
-                        <surname>Roth</surname>
-                    </persName>
+                </item>
+                <item>
+                    <person>
+                        <persName>
+                            <forename>Janina Marie</forename>
+                            <surname>Roth</surname>
+                        </persName>
+                    </person>
                     <note>Ich habe Ihre Hilfe bei meinem Fachwechsel sehr geschätzt! Vielen Dank für
                         Ihre Unterstützung auch in den vielen Seminaren, die ich bei Ihnen belegt
                         hatte. Ich wünsche Ihnen alles Gute!</note>
-                </item><item>
-                    <persName>
-                        <forename>Jorit</forename>
-                        <surname>Wintjes</surname>
-                    </persName>
+                </item>
+                <item>
+                    <person>
+                        <persName>
+                            <forename>Jorit</forename>
+                            <surname>Wintjes</surname>
+                        </persName>
+                    </person>
                     <note>"libertas quae sera, tamen respexit felicem" - Alles Gute für den
                         Ruhestand!</note>
-                </item><item>
-                    <persName>
-                        <forename>Johannes</forename>
-                        <surname>Leitgeb</surname>
-                    </persName>
+                </item>
+                <item>
+                    <person>
+                        <persName>
+                            <forename>Johannes</forename>
+                            <surname>Leitgeb</surname>
+                        </persName>
+                    </person>
                     <note>Lieber Herr Moser, ich möchte mich bei Ihnen für viele Jahre des
                         unermüdlichen Einsatzes für uns Studierende bedanken. Egal ob in Seminaren,
                         in Verbuchungsfragen oder bei anderen Problemen – immer waren Sie
                         ansprechbar. Ich wünsche Ihnen eine gute Zeit nach der Uni und vor allem
                         genug Freizeit, um nun die Dinge zu erleben, die immer warten mussten. Mit
                         den besten Grüßen, Johannes Leitgeb</note>
-                </item><item>
-                    <persName>
-                        <forename>Keshika</forename>
-                        <surname>Karunaikumar</surname>
-                    </persName>
+                </item>
+                <item>
+                    <person>
+                        <persName>
+                            <forename>Keshika</forename>
+                            <surname>Karunaikumar</surname>
+                        </persName>
+                    </person>
                     <note>Lieber Herr Moser, Vielen vielen Dank, dass Sie immer ein offenes Ohr für
                         mich hatten und sich immer so Zeit für meine Fragen genommen haben. Ich
                         wünsche Ihnen alles Gute.</note>
-                </item><item>
-                    <persName>
-                        <forename>Julia</forename>
-                        <surname>Boden</surname>
-                    </persName>
+                </item>
+                <item>
+                    <person>
+                        <persName>
+                            <forename>Julia</forename>
+                            <surname>Boden</surname>
+                        </persName>
+                    </person>
                     <note>Danke, dass Sie uns Studierende immer unterstützt haben. Durch Ihren Humor
                         und Ihre lockere Art, haben sich Fragen und Anliegen fast schon von alleine
                         gelöst. Ohne Sie hätte ich mein Studium sicherlich nicht so gut bewältigen
                         können. Ich wünsche Ihnen nur das Beste in Ihrem wohlverdienten Ruhestand!
                     </note>
-                </item><item>
-                    <persName>
-                        <forename>Thora</forename>
-                        <surname>Hagen</surname>
-                    </persName>
+                </item>
+                <item>
+                    <person>
+                        <persName>
+                            <forename>Thora</forename>
+                            <surname>Hagen</surname>
+                        </persName>
+                    </person>
                     <note>Großes Dankeschön, dass Sie es nicht nur geschafft haben, uns chaotische
                         Studenten erfolgreich durch Ihre Seminare zu führen, sondern auch stets
                         hilfsbereit bei Fragen und Problemen rund um Studienverlauf,
                         Seminaranrechnungen, Prüfungsumbuchungen, usw. waren. Ich wünsche Ihnen
                         alles Gute!</note>
-                </item><item>
-                    <persName>
-                        <forename>Corinna</forename>
-                        <surname>Keupp</surname>
-                    </persName>
+                </item>
+                <item>
+                    <person>
+                        <persName>
+                            <forename>Corinna</forename>
+                            <surname>Keupp</surname>
+                        </persName>
+                    </person>
                     <note>Vielen Dank für Ihr Engagement und Ihre Unterstützung während des
                         Studiums. Ich wünsche Ihnen einen Ruhestand voller Freude und
                         Entspannung.</note>
-                </item><item>
-                    <persName>
-                        <forename>Steffen</forename>
-                        <surname>Pielström</surname>
-                    </persName>
+                </item>
+                <item>
+                    <person>
+                        <persName>
+                            <forename>Steffen</forename>
+                            <surname>Pielström</surname>
+                        </persName>
+                    </person>
                     <note>Alles Gute!</note>
-                </item><item>
-                    <persName>
-                        <roleName>Oberbürgermeister</roleName>
-                        <roleName>Dr.</roleName>
-                        <forename>Markus</forename>
-                        <surname>Naser</surname>
-                    </persName>
+                </item>
+                <item>
+                    <person>
+                        <persName>
+                            <roleName>Oberbürgermeister</roleName>
+                            <roleName>Dr.</roleName>
+                            <forename>Markus</forename>
+                            <surname>Naser</surname>
+                        </persName>
+                    </person>
                     <note>Lieber Herr Dr. Moser, zu Ihrem wohlverdienten Ruhestand wünsche ich Ihnen
                         alles erdenklich Gute!</note>
-                </item><item>
-                    <persName>
-                        <forename>Fotis</forename>
-                        <surname>Jannidis</surname>
-                    </persName>
+                </item>
+                <item>
+                    <person>
+                        <persName>
+                            <forename>Fotis</forename>
+                            <surname>Jannidis</surname>
+                        </persName>
+                    </person>
                     <email>fotis@jannidis.de</email>
                     <note> Schade, schade, schade, dass Du gehst! Aber Glück für die kommende Zeit
                         mit viel Ruhe und bester Gesundheit!!</note>
-                </item><item>
-                    <persName>
-                        <forename>Suzana</forename>
-                        <surname>Urlic</surname>
-                    </persName>
+                </item>
+                <item>
+                    <person>
+                        <persName>
+                            <forename>Suzana</forename>
+                            <surname>Urlic</surname>
+                        </persName>
+                    </person>
                     <note>Vielen Dank für die interessanten Einblicke in DH und die Geschichte von
                         Würzburg und ihren Einwohnern. Ich wünsche Ihnen alles Gute und viel Spaß im
                         Ruhestand. Suzana</note>
-                </item><item>
-                    <persName>
-                        <forename>Alena</forename>
-                        <surname>Blahuschek</surname>
-                    </persName>
+                </item>
+                <item>
+                    <person>
+                        <persName>
+                            <forename>Alena</forename>
+                            <surname>Blahuschek</surname>
+                        </persName>
+                    </person>
                     <note>Ich respektiere Sie und ihre trockene Art wirklich sehr. Vielen Dank für
                         jeden Kurs und jedes Bestehen in den letzten Semestern! Und behalten Sie
                         Ihren Humor bitte. Und vielleicht kommen Sie ja in Zukunft dann zu den
                         Unifesten..?</note>
-                </item><item>
-                    <persName>
-                        <forename>Anton</forename>
-                        <surname>Ehrmanntraut</surname>
-                    </persName>
+                </item>
+                <item>
+                    <person>
+                        <persName>
+                            <forename>Anton</forename>
+                            <surname>Ehrmanntraut</surname>
+                        </persName>
+                    </person>
                     <note>Vielen Dank</note>
-                </item><item>
-                    <persName>
-                        <forename>Jule</forename>
-                        <surname>Beck</surname>
-                    </persName>
+                </item>
+                <item>
+                    <person>
+                        <persName>
+                            <forename>Jule</forename>
+                            <surname>Beck</surname>
+                        </persName>
+                    </person>
                     <note>Ich habe Sie als Dozent sehr geschätzt, viel von Ihnen gelernt und danke
                         Ihnen für Ihre Präsenz und die Mühen. Ich wünsche Ihnen das Beste für den
                         kommenden Ruhestand!</note>
-                </item><item>
-                    <persName>
-                        <forename>Johanna</forename>
-                        <surname>Bock</surname>
-                    </persName>
+                </item>
+                <item>
+                    <person>
+                        <persName>
+                            <forename>Johanna</forename>
+                            <surname>Bock</surname>
+                        </persName>
+                    </person>
                     <note> Vielen Dank für Ihre Unterstützung und Hilfe bei Fragen rund um das
                         Studium und dass Sie immer um das Wohl der Studierenden bemüht waren, auch
                         wenn das bestimmt nicht immer einfach war. Es war beruhigend zu wissen, dass
@@ -204,31 +279,39 @@
                         ernst genommen werden. Ich hoffe wir können diesen Teil in Ihrem Sinne auch
                         in der Fachschaft ein bisschen weiter führen und genau das Gefühl den
                         kommenden Studierenden mitgeben. Alles Gute für Sie und vielen Dank! </note>
-                </item><item>
-                    <persName>
-                        <forename>Artem</forename>
-                        <surname>Stoianov</surname>
-                    </persName>
+                </item>
+                <item>
+                    <person>
+                        <persName>
+                            <forename>Artem</forename>
+                            <surname>Stoianov</surname>
+                        </persName>
+                    </person>
                     <email>artem.stoianov@stud-mail.uni-wuerzburg.de</email>
                     <note> Vielen Dank für Ihre freundliche Unterstützung auf unserem Studienweg.
                         Für Ihre Bereitschaft zu helfen, Ihr Verständnis und Ihre Geduld bei der
                         Klärung der Fragen und schwieriger Themen. Ihre Liebe zur Geschichte und den
                         Digital Humanities hat sehr viel Spaß gemacht! Ich wünsche alles Gute im
                         weiteren und eine erholsame Zeit! </note>
-                </item><item>
-                    <persName>
-                        <forename>Yannik</forename>
-                        <surname>Herbst</surname>
-                    </persName>
+                </item>
+                <item>
+                    <person>
+                        <persName>
+                            <forename>Yannik</forename>
+                            <surname>Herbst</surname>
+                        </persName>
+                    </person>
                     <email>yannik.herbst@uni-wuerzburg.de</email>
                     <note> Vielen herzlichen Dank für Ihre jahrelange Unterstützung, ich wünsche
                         Ihnen eine gute Zeit! </note>
                 </item>
                 <item>
-                    <persName>
-                        <forename>Maximilian</forename>
-                        <surname>Nöth</surname>
-                    </persName>
+                    <person>
+                        <persName>
+                            <forename>Maximilian</forename>
+                            <surname>Nöth</surname>
+                        </persName>
+                    </person>
                     <note>Alles Gute zum wohlverdienten Ruhestand!</note>
                 </item>
             </list>
