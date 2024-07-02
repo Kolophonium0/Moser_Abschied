@@ -33,6 +33,7 @@
                 <author>Agnes Hilger</author>
                 <author>Sina Bock</author>
                 <author>Martin Rupnig</author>
+                <author>Thorsten Vitt</author>
                 <respStmt>
                     <resp>Initiative</resp>
                     <org type="FachschaftsInitiative">
@@ -391,6 +392,18 @@
                         </persName>
                     </person>
                     <note>Alles Gute zum wohlverdienten Ruhestand!</note>
+                </item>
+                <item>
+                    <person>
+                        <persName>
+                            <forename>Thorsten</forename>
+                            <surname>Vitt</surname>
+                        </persName>
+                    </person>
+                    <email>thorsten.vitt@uni-wuerzburg.de</email> 
+                    <note>Vielen Dank für Ihre jahrelange Unterstützung in allen Lehrfragen. 
+                      Alles Gute für den Ruhestand! (und herzliche Grüße auch, mittelbar, von 
+                      Werner Wegstein.)</note>
                 </item>
             </list>
         </body>
