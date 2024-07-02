@@ -27,7 +27,19 @@ language,
 channel,
 domain,
 constitution,
-person{
+person,
+name,
+resp,
+license,
+org,
+orgName,
+soCalled,
+author,
+date,
+orgName,
+publisher,
+pubPlace,
+preparedness{
     -oxy-display-tags: none;
 }
 title{
@@ -36,11 +48,12 @@ title{
     color: #6c868f;
     -oxy-display-tags: none;
     padding: 0.2em;
-    background-color: #fffdf3;
+    background-color: #eff3ed;
+    display: block;
 }
 publicationStmt p, sourceDesc p{
     padding: 0.2em;
-    background-color: #fffdf3;
+    background-color: #eff3ed;
     color: #6c868f;
     display: inline-block;
 }
@@ -88,7 +101,7 @@ roleName{
 list {
   content: oxy_button(actionID, 'Insert_New_Entry', showText, true);
 }
-channel, derivation, purpose, domain, constitution{
+channel, derivation, purpose, domain, constitution, preparedness{
   border-radius: 10px;  
   padding-left: 10px;
   padding-right: 10px;
@@ -123,4 +136,60 @@ language::before{
 }
 language{
     color: rgb(108 , 134 , 143);
+}
+titleStmt, textDesc, publicationStmt, langUsage{
+    background-color: #eff3ed;
+}
+respStmt::before{
+    content: '"Verantwortlich"';
+    display: block;
+    font-size: 1.2em;
+    text-align: center;
+    color: #6c868f;
+    margin: 0.5em;
+}
+respStmt p{
+    display: inline-block;
+    margin: 0;
+}
+respStmt *:nth-child(even)::after, publisher::after, pubPlace::after, publicationStmt date::after{
+    content: "\a";
+    white-space: pre;
+}
+respStmt *:nth-child(even)::before{
+    content: ": ";
+}
+publisher::before{
+    content: "Herausgeber: ";
+}
+pubPlace::before{
+    content: "Ort: ";
+}
+publicationStmt date::before{
+    content: "©";
+}
+license{
+    font-weight: bold;
+    margin: 0.5em;
+    padding: 0.5em;
+}
+author:first-of-type::before{
+    content: "Autoren: ";
+    display: block;
+    font-size: 1.2em;
+    text-align: center;
+    color: #6c868f;
+    margin: 0.5em;
+}
+publicationStmt{
+    padding-top: 0.5em;
+}
+preparedness{
+    content: "Vorbereitung? " attr(type);
+}
+purpose::before{
+    content: "Zweck: ";
+}
+purpose::after{
+    content: " - " attr(degree);
 }

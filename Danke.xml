@@ -1,14 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="resources/css/main.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Danksagung zu Herrn Dr. Stephan Mosers Pensionierung</title>
                 <author>Yannik Herbst</author>
-                <!-- TODO: Add each entry writer as author -->
+                <author>Pia Hofmann</author>
+                <author>Simon Donath</author>
+                <author>Kiara Hart</author>
+                <author>Madlin Marenec</author>
+                <author>Tomash Shtohryn</author>
+                <author>Silvia Pasciullo</author>
+                <author>Linnea Richter</author>
+                <author>Janina Marie Roth</author>
+                <author>Jorit Wintjes</author>
+                <author>Johannes Leitgeb</author>
+                <author>Keshika Karunaikumar</author>
+                <author>Julia Boden</author>
+                <author>Thora Hagen</author>
+                <author>Corinna Keupp</author>
+                <author>Steffen Pielström</author>
+                <author>Oberbürgermeister Dr. Markus Naser</author>
+                <author>Fotis Jannids</author>
+                <author>Suzana Urlic</author>
+                <author>Alena Blahuschek</author>
+                <author>Anton Ehrmanntraut</author>
+                <author>Jule Beck</author>
+                <author>Johanna Bock</author>
+                <author>Artem Stoianov</author>
+                <author>Maximilian Nöth</author>
+                <author>Agnes Hilger</author>
+                <respStmt>
+                    <resp>Initiative</resp>
+                    <org type="FachschaftsInitiative"><orgName>fsi.dh</orgName></org>
+                    <resp><soCalled>Programmierung</soCalled></resp>
+                    <name>Yannik Herbst</name>
+                    <resp>Inhalt</resp>
+                    <p>Alle unter Autoren genannte Personen</p>
+                </respStmt>
             </titleStmt>
             <publicationStmt>
-                <p> Information about distribution of the resource </p>
+                <publisher><orgName type="FachschaftsInitiative">fsi.dh</orgName></publisher>
+                <pubPlace>Würzburg</pubPlace>
+                <date when="2024">2024</date>
+                <license>The Don't Ask Me About It License (modified)
+                    Copying of this file, without or without modification, is
+                    permitted in any medium provided you do not contact the author 
+                    about the file or any problems you are having with the file
+                </license>
             </publicationStmt>
             <sourceDesc>
                 <p>Digitales Erzeugnis, es existiert keine vorhergehende Quelle.</p>
@@ -24,17 +64,26 @@
                     <constitution type="multiple"> Jedes item entstand als persönliche
                         Abschiedsworte der Studentenschaft und des Lehrkörpers der Digital
                         Humanities an der JMU zum Anlass des Ruhestandes von Herrn Dr. Stephan
-                        Moser.
-                    </constitution>
+                        Moser. </constitution>
                     <domain type="privat">Private Danksagung</domain>
                     <derivation type="original"/>
+                    <preparedness type="bisschen"/>
                 </textDesc>
             </profileDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <body>
-            <list>
+            <list><item>
+                    <person>
+                        <persName>
+                            <forename>Agnes</forename>
+                            <surname>Hilger</surname>
+                        </persName>
+                    </person>
+                    <note>3. Lieber Herr Moser, danke für Ihre Beratung und Unterstützung im
+                        Germanistik- und DH-Studium! Alles Gute für den Ruhestand!</note>
+                </item>
                 <item>
                     <person>
                         <persName>
