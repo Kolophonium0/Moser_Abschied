@@ -199,3 +199,6 @@ textDesc{
     margin: 0;
     margin-top: 1em;
 }
+surname[type="geborene"]::before{
+    content: " geborene "    
+}
