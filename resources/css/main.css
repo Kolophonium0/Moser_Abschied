@@ -214,3 +214,11 @@ soCalled::before{
 soCalled::after{
     content: '"';
 }
+license::before{
+    content: "Lizenz";
+    display: block;
+    font-size: 1.2em;
+    text-align: center;
+    color: #6c868f;
+    margin: 0.5em;
+}
