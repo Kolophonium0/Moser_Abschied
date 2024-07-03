@@ -85,7 +85,8 @@
     </teiHeader>
     <text>
         <body>
-            <list><item>
+            <list>
+                <item>
                     <person>
                         <persName>
                             <forename>Dag</forename>
@@ -94,7 +95,8 @@
                     </person>
                     <note>Lieber Herr Moser, alles Gute für Ihre persönliche und wissenschaftliche
                         Zukunft!</note>
-                </item><item>
+                </item>
+                <item>
                     <person>
                         <persName>
                             <forename>Torsten</forename>
