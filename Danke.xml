@@ -83,7 +83,8 @@
     </teiHeader>
     <text>
         <body>
-            <list><item>
+            <list>
+                <item>
                     <person>
                         <persName>
                             <forename>Katrin</forename>
@@ -93,7 +94,8 @@
                     <note>Lieber Herr Moser, vielen Dank für die gründliche Ausbildung der
                         Studierenden und ihre unermüdliche Organisationarbeit. Ich wünsche Ihnen
                         einen aktiven und fröhlichen Ruhestand.</note>
-                </item><item>
+                </item>
+                <item>
                     <person>
                         <persName>
                             <forename>Lilli</forename>
@@ -118,7 +120,8 @@
                         wohlverdienten Ruhestand! Auf Wiedersehen, (das nehme ich mir mal raus,
                         nachdem Sie mich nun öfter im Kurs per Vornamen angesprochen haben) Stephan!
                         (gez. Lilli Moutschka)</note>
-                </item><item>
+                </item>
+                <item>
                     <person>
                         <persName>
                             <forename>Martin</forename>
@@ -418,8 +421,15 @@
                         </persName>
                     </person>
                     <email>yannik.herbst@uni-wuerzburg.de</email>
-                    <note> Vielen herzlichen Dank für Ihre jahrelange Unterstützung, ich wünsche
-                        Ihnen eine gute Zeit! </note>
+                    <note> Lieber Herr Moser, <quote>"oder besser: Guter Mann! - Wenn jedeR in
+                            ihrer/seiner studentischen Laufbahn soviele Rückfragen an den
+                            Fachstudienberater hätte wie Sie, müsste ich alle übrigen Tätigkeiten
+                                eistellen." <bibl type="source">Persönlicher E-Mail Verkehr zur
+                                Masterzulassung, erhalten am 08.02.2022.</bibl></quote> es freut
+                        mich sehr, dass dies nicht der Grund für Ihren heutigen Abschied ist,
+                        sondern die Kontinuität der Zeit. Ich danke Ihnen herzlichst für Ihre
+                        jahrelange Unterstützung, Geduld und stets ehrlichen Worte! Genießen Sie
+                        Ihren wohlverdienten Ruhestand!</note>
                 </item>
                 <item>
                     <person>
