@@ -36,6 +36,7 @@
                 <author>Thorsten Vitt</author>
                 <author>Lilli Moutschka</author>
                 <author>Katrin Dennerlein</author>
+                <author>Yannik Herbst</author>
                 <respStmt>
                     <resp>Initiative</resp>
                     <org type="FachschaftsInitiative">
@@ -83,7 +84,16 @@
     </teiHeader>
     <text>
         <body>
-            <list>
+            <list><item>
+                    <person>
+                        <persName>
+                            <forename>Torsten</forename>
+                            <surname>Roeder</surname>
+                        </persName>
+                    </person>
+                    <note>Lieber Herr Moser, mit den besten Verbuchungsgrüßen wünsche ich Ihnen eine
+                        angenehme Zeit im Ruhestand!</note>
+                </item>
                 <item>
                     <person>
                         <persName>
@@ -424,7 +434,7 @@
                     <note> Lieber Herr Moser, <quote>"oder besser: Guter Mann! - Wenn jedeR in
                             ihrer/seiner studentischen Laufbahn soviele Rückfragen an den
                             Fachstudienberater hätte wie Sie, müsste ich alle übrigen Tätigkeiten
-                                eistellen." <bibl type="source">Persönlicher E-Mail Verkehr zur
+                            eistellen." <bibl type="source">Persönlicher E-Mail Verkehr zur
                                 Masterzulassung, erhalten am 08.02.2022.</bibl></quote> es freut
                         mich sehr, dass dies nicht der Grund für Ihren heutigen Abschied ist,
                         sondern die Kontinuität der Zeit. Ich danke Ihnen herzlichst für Ihre

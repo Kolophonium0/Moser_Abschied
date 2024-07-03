@@ -211,7 +211,7 @@ author:last-of-type::after{
     content: "";
 }
 soCalled::before{
-    content: '"';
+    content: 'sogenannte "';
 }
 soCalled::after{
     content: '"';
