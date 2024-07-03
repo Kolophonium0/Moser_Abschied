@@ -34,6 +34,8 @@
                 <author>Sina Bock</author>
                 <author>Martin Rupnig</author>
                 <author>Thorsten Vitt</author>
+                <author>Lilli Moutschka</author>
+                <author>Katrin Dennerlein</author>
                 <respStmt>
                     <resp>Initiative</resp>
                     <org type="FachschaftsInitiative">
@@ -82,6 +84,16 @@
     <text>
         <body>
             <list><item>
+                    <person>
+                        <persName>
+                            <forename>Katrin</forename>
+                            <surname>Dennerlein</surname>
+                        </persName>
+                    </person>
+                    <note>Lieber Herr Moser, vielen Dank für die gründliche Ausbildung der
+                        Studierenden und ihre unermüdliche Organisationarbeit. Ich wünsche Ihnen
+                        einen aktiven und fröhlichen Ruhestand.</note>
+                </item><item>
                     <person>
                         <persName>
                             <forename>Lilli</forename>
