@@ -37,6 +37,7 @@
                 <author>Lilli Moutschka</author>
                 <author>Katrin Dennerlein</author>
                 <author>Yannik Herbst</author>
+                <author>Dag Hasse</author>
                 <respStmt>
                     <resp>Initiative</resp>
                     <org type="FachschaftsInitiative">
@@ -85,6 +86,15 @@
     <text>
         <body>
             <list><item>
+                    <person>
+                        <persName>
+                            <forename>Dag</forename>
+                            <surname>Hasse</surname>
+                        </persName>
+                    </person>
+                    <note>Lieber Herr Moser, alles Gute für Ihre persönliche und wissenschaftliche
+                        Zukunft!</note>
+                </item><item>
                     <person>
                         <persName>
                             <forename>Torsten</forename>
